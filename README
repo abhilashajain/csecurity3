@@ -1,0 +1,23 @@
+Name: Abhilasha Jain
+
+Email: ajain35@binghamton.edu
+
+Language used - Java 
+
+Encryption used - AED from java.security
+
+Tested on: remote.cs
+
+How to Compile and run:
+
+1.Use commands- a) javac genpass.java b) javac verifypass.java
+
+2. Run generate password program using - java genpass
+
+3. Run verify password program using - java verifypass
+
+NOTE:
+
+Generate password program flow - First program asks for total no. of users to be created , integer value to be input. Then ID and password for each user to be entered sequentially. All users are created with encrypted passwords and stored in password file.
+
+Verify password program flow - Enter ID and password to verify. Program outputs the result accordingly. Password file must be present to run this program else it exits.
